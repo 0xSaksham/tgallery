@@ -13,4 +13,3 @@
 - [ ] Delete button (w/ server actions)
 - [ ] Analytics (w/ posthog)
 - [ ] Rate limiting (w/ upstash)
-```
